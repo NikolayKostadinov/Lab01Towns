@@ -3,6 +3,7 @@
 
 # Roles
   - Николай Костадинов - NikolayKostadinov - takes the role “Team Leader”. 
-  - Ивайло Борисов - IvayloBorisov takes the role “Editor”.
-  - Михаил Петров - mpetrov08 takes the role “Shiffler”.
-  - Грета Ямачева - yamachevaGreta takes the role “Styler”.
+  - {Тeammate1} takes the role “Editor”.
+  - {Тeammate2} takes the role “Shiffler”.
+  - {Тeammate3} takes the role “Styler1”.
+  - {Тeammate4} takes the role “Styler2”.
