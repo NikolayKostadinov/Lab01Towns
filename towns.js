@@ -20,6 +20,7 @@ function deleteTown() {
         showMessage(townName + " not found.");
 }
 
+
 function addTown() {
     let townName = $('#townNameForAdd').val();
     $('#townNameForAdd').val('');
@@ -33,6 +34,7 @@ function showMessage(msg) {
         $('#result').hide('blind', {}, 500);
     }, 3000);
 }
+
 
 function shuffleTowns() {
     let towns = $('#towns option').toArray();
